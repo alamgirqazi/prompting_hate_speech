@@ -1,5 +1,7 @@
-pandas
-transformers
-torch
-datasets 
+pandas==2.2.2
+transformers==4.29.0
+torch==2.3.0
+datasets==2.19.0
+accelerate
 openprompt>=1.0.1
+scikit-learn

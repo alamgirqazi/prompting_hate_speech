@@ -30,6 +30,7 @@ Installing
 the CUDA systems that matches your distribution, see `PyTorch <https://pytorch.org/get-started/locally/>`__.
 
 -->
+## Important (updated instructions for installing for Linux environment are in INSTALL.md file)
 
 Instructions to run the code
 --------
